@@ -1,0 +1,39 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.top-banner{
+    background-image: url("images/bcs-bg-main.png");
+    background-repeat: no-repeat;
+}
+.top-banner span{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+.bcs-content-color{
+    color: rgb(192, 216, 238);
+}
+.bcs-content-color:hover{
+    color: rgb(21, 142, 255);
+}
+.info-area span{
+    color: orange;
+}
+.curcle{
+    position: relative;
+    width: 60%;
+    image-resolution: 300px;
+}
+.top-banner h1{
+    font-size: 50px;
+}
